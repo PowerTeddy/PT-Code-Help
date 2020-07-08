@@ -29,7 +29,7 @@ Push to the new branch
 git push origin feature/foobar
 ```
 
-Create a new pull request (https://github.com/The-SourceCode/Open-SourceBot/compare)
+Create a new pull request (https://github.com/PowerTeddy/discord.js-PT/compare)
 
 ## Requirements
 There are a couple requirements that need to be met before a pull request can be accepted.
